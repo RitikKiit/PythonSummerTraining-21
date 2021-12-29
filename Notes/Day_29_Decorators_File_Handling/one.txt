@@ -1,0 +1,2 @@
+This is text file using python
+We will read this file using python
